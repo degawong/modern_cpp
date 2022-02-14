@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# specific directory
+build/
+workspace/
+.vs/
+.vscode/
+2022
